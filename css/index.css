@@ -1,0 +1,28 @@
+.btn {
+display: inline-block;
+text-align: center;
+vertical-align: middle;
+border: 1px solid transparent;
+padding: .3em 7em;
+border-radius: .2em;
+}
+.btn-primary{
+color: #ffffff;
+background-color:blue;
+border-color:#b90404
+}
+.btn-info{
+    color: aqua;
+    background-color: blueviolet;
+    border-color: black;
+}
+.btn-warning{
+color: crimson;
+background: darkblue;
+border-color: deeppink;
+}
+.btn-danger{
+    color: red;
+    background-color: greenyellow;
+    border-color:  red;
+}
